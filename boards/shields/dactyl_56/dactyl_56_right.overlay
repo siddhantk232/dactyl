@@ -1,4 +1,4 @@
-#include "dactyl_cc.dtsi"
+#include "dactyl_56.dtsi"
 
 // Offset of 6 because the left side has 6 columns
 &default_transform { 
