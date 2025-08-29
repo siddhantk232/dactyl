@@ -1,0 +1,24 @@
+if SHIELD_DACTYL_56_LEFT
+
+    # Name must be less than 16 characters long!
+    config ZMK_KEYBOARD_NAME
+        default "Dactyl 56"
+
+    config ZMK_SPLIT_BLE_ROLE_CENTRAL
+        default y
+
+endif
+
+if SHIELD_DACTYL_56_RIGHT
+
+    config ZMK_KEYBOARD_NAME
+        default "Dactyl 56 Right"
+
+endif
+
+if SHIELD_DACTYL_56_LEFT || SHIELD_DACTYL_56_RIGHT
+
+    config ZMK_SPLIT
+        default y
+
+endif

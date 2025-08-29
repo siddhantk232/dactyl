@@ -1,3 +1,4 @@
+name: zmk-keyboard-dactyl_56
 build:
   settings:
     board_root: .

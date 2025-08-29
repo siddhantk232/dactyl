@@ -1,0 +1,17 @@
+#include "dactyl_cc.dtsi"
+
+// Offset of 6 because the left side has 6 columns
+&default_transform { 
+    col-offset = <6>;
+};
+
+&kscan0 {
+    col-gpios
+        = <&gpio0 22 GPIO_ACTIVE_HIGH>
+        , <&gpio0 24 GPIO_ACTIVE_HIGH>
+        , <&gpio1 0  GPIO_ACTIVE_HIGH>
+        , <&gpio0 11 GPIO_ACTIVE_HIGH>
+        , <&gpio1 4  GPIO_ACTIVE_HIGH>
+        , <&gpio1 6  GPIO_ACTIVE_HIGH>
+        ;
+};
