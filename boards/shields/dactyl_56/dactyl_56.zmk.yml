@@ -5,9 +5,9 @@ type: shield
 url: https://github.com/siddhantk232/dactyl
 requires: [nice_nano_v2]
 exposes: []
-# TODO: add `studio`: https://zmk.dev/docs/development/hardware-integration/hardware-metadata-files#features
 features:
   - keys
+  - studio
 siblings:
   - dactyl_56_left
   - dactyl_56_right
