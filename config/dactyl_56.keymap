@@ -45,7 +45,7 @@
     &kp F1     &kp F2    &kp F3    &kp F4     &kp F5    &kp F6                            &kp F7      &kp F8       &kp F9    &kp F10    &kp F11  &kp F12
     &sl ADJUST &none     &none     &none      &none     &none                             &none       &none        &none     &none      &none    &none
     &none      &none     &none     &none      &none     &none                             &kp LEFT    &kp DOWN     &kp UP    &kp RIGHT  &none    &none
-    &none      &none     &none     &none      &none     &none                             &none       &none        &none     &none   &none    &none
+    &none      &none     &none     &none      &none     &studio_unlock                    &none       &none        &none     &none      &none    &none
                          &kp GRAVE &kp BSLH   &kp LEFT  &kp RIGHT                         &kp DOWN    &kp UP       &kp LBKT  &kp RBKT
                          &kp LCTRL &kp LALT   &kp LGUI  &kp SPACE                         &kp RGUI    &kp SPACE    &kp RALT  &kp RCTRL
             >;       };
