@@ -30,7 +30,7 @@ If you are looking to build a similar project and you live in India then the fol
     <td>2500</td>
   </tr>
   <tr>
-    <td>SuperMini nRF52840 BLE controller</td>
+    <td>SuperMini nRF52840 BLE controller (nice!nano clones)</td>
     <td><a href="https://robokits.co.in/iot-wireless-solutions/iot-internet-of-things/iot-esp-module/supermini-nrf52840-pro-micro-bluetooth-le-ble-controller-arduino-compatible">Robokits</a></td>
     <td>1773</td>
   </tr>
@@ -88,6 +88,8 @@ You can visit the following links if you want to learn more about the build proc
 - [Dactyl Manuform Repo](https://github.com/abstracthat/dactyl-manuform). The readme contains wiring diagrams that helped me during the actual build process.
 
 - [ZMK Docs](https://zmk.dev/docs) is pretty much the only resource I used to configure the firmware. The project is very well documented.
+
+- [nice!nano v2 pin diagram](https://nicekeyboards.com/docs/nice-nano/pinout-schematic).
 
 [3dprintconfig]: https://ryanis.cool/cosmos/beta#cm:Cp8BChUSBRCAbyAnEgASABIAOB5AgIaKwAcKGRIFEIBjICcSABIAEgMQsDsSAxCwazgKQAAKHBIFEIBXICcSABIAEgMQsC8SAxCwXzgJQIDwvAIKERIFEIBLICcSABIAEgA4HUAAChESBRCAPyAnEgASABIAODFAAAoYEgIgJxIAEgQQoIAKEgIQMDgyQICGisAHGABA7IWgrvBVSNzwoqABCqEBCisSExDAgAJAgICYAkjCmaCVkLwBUEMSEkCAgMwCSMKZoJWQvAFQhgFYOjgIChUSEBBAQICAIEjQlYDdkPUDUAtQngIKJxIQEEBAgID4AUjmmfynkAtQVxIRQICApANI8JnEtdAwUHRYlQFQfwoVEhBAkrbtDEj6mejs8PwCUIYBUIICGAIiCgjIARDIARgAIABAy4v8n9AxSK2R3I3BkwaCAQECWEhoAA==
 [zmk-studio-issue-comment]: https://github.com/zmkfirmware/zmk-studio/issues/124#issuecomment-2662519535
