@@ -10,7 +10,7 @@ The STL files are generated using https://ryanis.cool/cosmos/. You can access my
 
 ## ZMK
 
-The keymap defined in <./config/dactyl_56.keymap> is outdated since I have shifted to using zmk-studio to be able to change the mapping without re-flashing.
+The keymap defined in [./config/dactyl_56.keymap](./config/dactyl_56.keymap) is outdated since I have shifted to using zmk-studio to be able to change the mapping without re-flashing.
 
 Sadly, zmk-studio does not provide a way to export your config to a file for reproducability. This means I will loose my keymap when I re-flash the firmware. This is not exactly true as explained [in this issue comment][zmk-studio-issue-comment], but I am not aware if it is possible to backup the on board keymap as of writing this.
 
