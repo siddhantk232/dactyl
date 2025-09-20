@@ -1,6 +1,6 @@
-# Dactyl 5x6
+# Dactyl 56
 
-This repository contains the ZMK firmware configuration and STL files for my Dactyl keyboard build.
+This repository contains the ZMK firmware configuration and STL files for my wireless Dactyl 5x6 keyboard build.
 
 ![dactyl 56](./imgs/final_build.jpg)
 
@@ -75,6 +75,19 @@ If you are looking to build a similar project and you live in India then the fol
   </tr>
 </table>
 
+## Resources
+
+You can visit the following links if you want to learn more about the build process.
+
+- [The original dactyl project](https://github.com/adereth/dactyl-keyboard). This is great to learn more about the design of the dactyl style of keyboards. I highly recommend watching [the talk](https://www.youtube.com/watch?v=uk3A41U0iO4).
+
+- [Dactyl Manuform build stream on YouTube by Kevin Eckert](https://www.youtube.com/playlist?list=PLJcTwFs4jAY0VnJDXhexZw7X3OIjXQkiY). This is where I got the idea of using copper tape for connecting the columns of the keyboard. The video series features a wired build but most of it applies to the wireless variant as well.
+
+- [This Reddit Post](https://www.reddit.com/r/mkindia/comments/odiql9/dactyl_manuform_5x6_no_imports_budget_build_less/). It shares a few tips for "Looping" the diodes and using a mini breadboard for soldering the microcontroller header pins which I adopted.
+
+- [Dactyl Manuform Repo](https://github.com/abstracthat/dactyl-manuform). The readme contains wiring diagrams that helped me during the actual build process.
+
+- [ZMK Docs](https://zmk.dev/docs) is pretty much the only resource I used to configure the firmware. The project is very well documented.
 
 [3dprintconfig]: https://ryanis.cool/cosmos/beta#cm:Cp8BChUSBRCAbyAnEgASABIAOB5AgIaKwAcKGRIFEIBjICcSABIAEgMQsDsSAxCwazgKQAAKHBIFEIBXICcSABIAEgMQsC8SAxCwXzgJQIDwvAIKERIFEIBLICcSABIAEgA4HUAAChESBRCAPyAnEgASABIAODFAAAoYEgIgJxIAEgQQoIAKEgIQMDgyQICGisAHGABA7IWgrvBVSNzwoqABCqEBCisSExDAgAJAgICYAkjCmaCVkLwBUEMSEkCAgMwCSMKZoJWQvAFQhgFYOjgIChUSEBBAQICAIEjQlYDdkPUDUAtQngIKJxIQEEBAgID4AUjmmfynkAtQVxIRQICApANI8JnEtdAwUHRYlQFQfwoVEhBAkrbtDEj6mejs8PwCUIYBUIICGAIiCgjIARDIARgAIABAy4v8n9AxSK2R3I3BkwaCAQECWEhoAA==
 [zmk-studio-issue-comment]: https://github.com/zmkfirmware/zmk-studio/issues/124#issuecomment-2662519535
